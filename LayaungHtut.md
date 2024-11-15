@@ -8,7 +8,7 @@ Hello! I am La Yaung Htut.
 
 I am currently 18 years old, a cmputer Science student, studying at UIT(First Year). And trying to be a software engineer.
 
-Currently I am learning--
+For frontend, I'm learning and using--
 
 - Svelte(JavaScript Framework)
 - HTML
