@@ -6,14 +6,14 @@ Hello! I am La Yaung Htut.
 
 <img src="Waguri.jpg" style="border-radius: 50%;" >
 
-I am a Computer Science student.
-I am currently 18 years old and trying to be a software engineer.
+I am currently 18 years old, a cmputer Science student, studying at UIT(First Year). And trying to be a software engineer.
 
 Currently I am learning--
 
 - Svelte(JavaScript Framework)
 - HTML
 - CSS
+- JavaScript
 
 ---
 
@@ -21,13 +21,13 @@ Currently I am learning--
 
 1. To buy a new laptop.
 
-👺 Want a girlfriend. ~(>\_<。)＼
+👺 want a girlfriend. ~(>\_<。)＼
 
 &copy; <LayaungHtut5@gmail.com>
 
 ---
 
-### Games to play together
+### Games I usually play
 
 > Genshin Impact
 >
