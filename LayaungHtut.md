@@ -15,7 +15,7 @@ For frontend, I'm learning and using--
 - CSS
 - JavaScript
 
----
+___
 
 ### Goals
 
@@ -25,7 +25,7 @@ For frontend, I'm learning and using--
 
 &copy; <LayaungHtut5@gmail.com>
 
----
+___
 
 ### Games I usually play
 
@@ -37,8 +37,10 @@ For frontend, I'm learning and using--
 >
 > > UID - 700694659(Asia)
 
----
+___
 
 ```
-Leave the people who were meant to see the future with and walk on alone.
+ > Leave the people who were meant to see the future with and walk on alone.
+
+ > If the world hates you, just remember that, it has hated me first.
 ```
