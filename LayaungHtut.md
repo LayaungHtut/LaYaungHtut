@@ -10,22 +10,24 @@ I am currently 18 years old, a cmputer Science student, studying at UIT(First Ye
 
 For frontend, I'm learning and using--
 
+(But in 2025 now, going Full-stack, ヾ(≧▽≦\*)o )
+
 - Svelte(JavaScript Framework)
 - HTML
 - CSS
 - JavaScript
 
-___
+---
 
 ### Goals
 
 1. To buy a new laptop.
 
-👺 want a girlfriend. ~(>\_<。)＼
+2. Still can't see the future.
 
 &copy; <LayaungHtut5@gmail.com>
 
-___
+---
 
 ### Games I usually play
 
@@ -37,7 +39,7 @@ ___
 >
 > > UID - 700694659(Asia)
 
-___
+---
 
 ```
  > Leave the people who were meant to see the future with and walk on alone.
