@@ -45,4 +45,6 @@ For frontend, I'm learning and using--
  > Leave the people who were meant to see the future with and walk on alone.
 
  > If the world hates you, just remember that, it has hated me first.
+
+ > If the king is not in front then how can his men follow.
 ```
