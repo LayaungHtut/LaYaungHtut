@@ -16,6 +16,7 @@ For frontend, I'm learning and using--
 - HTML
 - CSS
 - JavaScript
+- Postgres
 
 ---
 
