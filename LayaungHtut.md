@@ -17,6 +17,7 @@ For frontend, I'm learning and using--
 - CSS
 - JavaScript
 - Postgres
+- Drizzle ORM
 
 ---
 
