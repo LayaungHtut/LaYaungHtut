@@ -51,6 +51,6 @@ I am currently 19 years old, a cmputer Science student, studying at UIT(First Ye
  
 ```
 
-### REMEMBER THAT PAIN IN YOUR CHEST, IS THE PAIN OF YOUR OWN MISERY.
 
-> > > 6th June 2025
+
+> > > DON'T FORGET => 6th June 2025
